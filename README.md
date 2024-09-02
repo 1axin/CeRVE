@@ -84,7 +84,5 @@ Please refer to the original paper for data and results sections to understand m
 
 If you have any suggestions for improving CeRVE or encounter any issues, feel free to submit an Issue or a Pull Request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
